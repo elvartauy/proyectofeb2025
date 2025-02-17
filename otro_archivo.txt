@@ -1,2 +1,2 @@
-Edicion remota de archivo
+Edición remota de archivo
 y desde otra máquina también
